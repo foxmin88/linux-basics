@@ -1,2 +1,3 @@
 #!/bin/sh
-mkdir mtDirecotry
+mkdir myDirecotry
+rmdir myDirecotry
