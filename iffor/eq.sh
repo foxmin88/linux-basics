@@ -1,5 +1,5 @@
 #!/bin/sh
-if [10 -eq 10]
+if [ 10 -eq 10]
 then
 	echo "O"
 else 
