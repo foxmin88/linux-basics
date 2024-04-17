@@ -7,4 +7,4 @@ echo \$myvar
 echo whatever
 read myvar
 echo '$myvar' = $myvar
-exit 0
+exit 0 ;;;
